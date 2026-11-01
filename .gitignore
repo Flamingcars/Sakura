@@ -1,0 +1,15 @@
+# Build output and Visual Studio state
+x64/
+.vs/
+*.pdb
+*.log
+*.user
+
+# Local-only bits
+.freebuff/
+.cloud-attachments/
+build_speed.txt
+speed_admin.txt
+
+# The staged x.exe.update the self-updater downloads between launches
+*.update
