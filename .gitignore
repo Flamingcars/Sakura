@@ -6,7 +6,6 @@ x64/
 *.user
 
 # Local-only bits
-.freebuff/
 .cloud-attachments/
 build_speed.txt
 speed_admin.txt
