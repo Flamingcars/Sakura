@@ -1,6 +1,6 @@
 # Sakura
 
-Loader with triggerbot, silent aim and macro. Distributed here as `x.exe`.
+Loader with triggerbot and macro. Distributed here as `x.exe`.
 
 ## Auto-update
 
